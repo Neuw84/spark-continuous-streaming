@@ -11,10 +11,8 @@ Spark 2.3. End to End Avro Continous Structured Streaming Kafka demo using Twitt
 
 ## Architecture
 
-<a href="Architecture">
-  <img src="https://raw.githubusercontent.com/Neuw84/spark-continuous-streaming/master/architecture.png" width="100%" height="100">
-</a>
-
+![Architecture](https://raw.githubusercontent.com/Neuw84/spark-continuous-streaming/master/architecture.png)
+ 
 ## Usage
 
 Configure kafka hosts and execute both the ```ProducerConsumerDemo``` and the ```StructuredDemo``` classes.
